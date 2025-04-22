@@ -1,6 +1,8 @@
 # Quantitative-Analysis-Tools-with-R
 
-![ICN banner](https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_icn_business_school.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_icn_business_school.png" alt="ICN banner" width="300"/>
+</p>
 
 ## 🎯 Overview
 
@@ -35,7 +37,6 @@ The course provides a practical introduction to quantitative methods for data an
 - Basics of supervised and unsupervised learning
 - Classification techniques
 - Clustering methods (e.g., K-means)
-- Dimensionality reduction (e.g., PCA)
 
 ---
 
