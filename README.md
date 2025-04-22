@@ -1,8 +1,6 @@
 # Quantitative-Analysis-Tools-with-R
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_icn_business_school.png" alt="ICN banner" width="300"/>
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_icn_business_school.png" alt="ICN banner" width="150"/>
 
 ## 🎯 Overview
 
