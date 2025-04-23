@@ -1,6 +1,6 @@
 # Quantitative-Analysis-Tools-with-R
 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_icn_business_school.png](https://prep-me.co/wp-content/uploads/2024/04/ICN-Business-School.png)" alt="ICN banner" width="150"/>
+<img src="https://prep-me.co/wp-content/uploads/2024/04/ICN-Business-School.png" alt="ICN banner" width="150"/>
 
 ## 🎯 Overview
 
