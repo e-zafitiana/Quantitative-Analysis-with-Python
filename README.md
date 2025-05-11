@@ -1,4 +1,4 @@
-# Quantitative-Analysis-with-R
+# Quantitative-Analysis-with-Python
 
 <img src="https://prep-me.co/wp-content/uploads/2024/04/ICN-Business-School.png" alt="ICN banner" width="300"/>
 
