@@ -4,7 +4,7 @@
 
 ## 🎯 Overview
 
-The course provides a practical introduction to quantitative methods for data analysis, including descriptive statistics, ANOVA, multivariate analysis, and machine learning techniques like clustering and classification.
+This repository is a Python adaptation of my Quantitative Analysis course, originally focused on R. It provides practical solutions for data analysis using Python, covering descriptive statistics, ANOVA, multivariate analysis, and machine learning techniques like clustering and classification.
 
 ---
 
@@ -17,27 +17,27 @@ The course provides a practical introduction to quantitative methods for data an
 ## 📚 Course Structure
 
 ### 📌 Chapter 01: The Quantitative Research Process and Numerical Descriptive Measures
-- Introduction to the quantitative research process
-- Descriptive statistics and numerical data summarization
-- Data visualization and effective graphical representations
+- Introduction to the quantitative research process (Python version)
+- Descriptive statistics and numerical data summarization with Python (Pandas, Numpy)
+- Data visualization using Matplotlib and Seaborn
 
 ### 📌 Chapter 02: Analysis of Variance (ANOVA)
-- One-way ANOVA for categorical data
-- Interpretation of ANOVA results
+- One-way ANOVA for categorical data (Scipy, Statsmodels)
+- Interpretation of ANOVA results in Python
 - Practical applications and use cases
 
 ### 📌 Chapter 03: Exploring Numerical Data with Two or More Variables
 - Correlation analysis between continuous variables
-- Linear regression models
+- Linear regression models with Scikit-learn
 - Graphical exploration of relationships between variables
 
 ### 📌 Chapter 04: Introduction to Statistical Learning — Classification and Clustering
-- Basics of supervised and unsupervised learning
-- Classification techniques
-- Clustering methods (e.g., K-means)
+- Basics of supervised and unsupervised learning (Scikit-learn)
+- Classification techniques (Logistic Regression, Decision Trees)
+- Clustering methods (K-means, Hierarchical Clustering)
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository shares **my personal R code, solutions, and statistical analyses** for educational purposes only.
+This repository shares **my personal Python code, solutions, and statistical analyses**, adapted from the original R course for educational purposes only.
