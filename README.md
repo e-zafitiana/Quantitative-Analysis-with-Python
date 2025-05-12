@@ -1,16 +1,9 @@
 # Quantitative-Analysis-with-Python
 
-<img src="https://prep-me.co/wp-content/uploads/2024/04/ICN-Business-School.png" alt="ICN banner" width="300"/>
 
 ## 🎯 Overview
 
 This repository is a Python adaptation of my Quantitative Analysis course, originally focused on R. It provides practical solutions for data analysis using Python, covering descriptive statistics, ANOVA, multivariate analysis, and machine learning techniques like clustering and classification.
-
----
-
-## 🏫 Course Instructor  
-**Professor:** Rabeh Khalfaoui  
-**School:** ICN Business School  
 
 ---
 
